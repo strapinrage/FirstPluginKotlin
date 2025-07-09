@@ -1,5 +1,5 @@
 
-# My First Plugin Kotlin Minecraft
+# My First Plugin Kotlin Minecraft 1.8.8
 
 
 The plugin displays a welcome message in the chat and as a title.
